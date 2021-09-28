@@ -9,5 +9,7 @@ uses default.html and also has some content injected into jekyll
 # Blog Page
 Links to all of my posts
 Has all the posts injected using jekyll.
+This is in post.html in layouts file.
+The blog page injects the date and what the name of the web page is. 
 # Each post(ie. site launched)
 is the actual post that is added.
